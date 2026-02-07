@@ -9,7 +9,7 @@ This dashboard analyzes **shipping costs for product orders** and compares two p
 
 ---
 
-                                <img width="562" height="476" alt="image" src="https://github.com/user-attachments/assets/3525ede9-4f46-404d-8275-3f24777c5cdc" />
+<img width="562" height="476" alt="image" src="https://github.com/user-attachments/assets/3525ede9-4f46-404d-8275-3f24777c5cdc" />
 
 ---
 
